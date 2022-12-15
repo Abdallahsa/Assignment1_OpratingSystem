@@ -1,4 +1,4 @@
-# Assignment1_OpratingSystem
+# Assignment1_OpratingSystem using GUI
 <h1> The Consumer thread will hold a lock when it start and release it when the 
 ready queue is Empty and must notify all other threads</h1>
 Description
